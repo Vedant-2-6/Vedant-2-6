@@ -11,6 +11,7 @@
   <a href="https://vedant-portfolio-2026-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live_Terminal_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/></a>
   <a href="https://www.linkedin.com/in/vedantpatel2603"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vedantpatelvp04@gmail.com"><img src="https://img.shields.io/badge/Signal_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Vedant-2-6&color=00F7FF&style=for-the-badge&label=CLUSTER+HITS" alt="Cluster Visits" />
 </p>
 
 ---
