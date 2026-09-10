@@ -36,9 +36,9 @@ export STATUS="Ready to deploy to production | Coffee Level: [||||||||||] 100%"
  └────────────────┘      └───────────────────────────┘      └────────────────────────┘
 ```
 
-- **Cloud & IaC:** `Terraform` (Modules & State), `Microsoft Azure`, `AWS Basics`, `Docker`, `Kubernetes (K8s)`
+- **Cloud & IaC:** `Terraform` (IaC Modules & State), `Microsoft Azure`, `AWS Basics`, `Docker`, `Kubernetes (K8s)`
 - **Observability:** `Prometheus`, `Grafana`, `Log Analytics Workspace`, `Alertmanager`, `Health Probes`
-- **Languages & Scripting:** `Go (Golang)`, `Python`, `Bash / Shell`, `JavaScript / TypeScript`, `SQL`
+- **Scripting & Web:** `Bash / Shell Scripting`, `JavaScript / TypeScript`, `Node.js`, `SQL`, `Linux CLI`
 - **Networking & Edge:** `NGINX Reverse Proxy`, `TCP/IP`, `DNS`, `SSL/TLS`, `WebSockets (Socket.IO)`
 - **Databases:** `PostgreSQL`, `MongoDB Atlas`, `Redis (In-Memory Cache)`, `SQLite`
 
@@ -48,10 +48,10 @@ export STATUS="Ready to deploy to production | Coffee Level: [||||||||||] 100%"
 
 | Project | Telemetry / Specs | Description |
 |---|---|---|
-| **[`DevOps-God`](https://github.com/Vedant-2-6/DevOps-God)** | `Python` • `Cloud APIs` • `CLI` • `Linux` | Automated CLI utility parsing real-time telemetry, isolating packet loss & container degradation before the alert storm hits. |
 | **[`Tagalong-Terraform`](https://github.com/Vedant-2-6/Tagalong-Terraform)** | `Terraform` • `Azure VNets` • `IaC` • `DevOps` | Declarative 3-tier cloud infrastructure. Modular code provisioning virtual networks, app gateways, and automated CI/CD. |
-| **[`Agentic-RAG-Assistant`](https://github.com/Vedant-2-6/Agentic-RAG-Assistant)** | `Python` • `LangGraph` • `FastAPI` • `Docker` | Autonomous state-machine RAG pipeline with FAISS vector search and streaming token lifecycles in isolated containers. |
+| **[`DevOps-God`](https://github.com/Vedant-2-6/DevOps-God)** | `Linux` • `Cloud APIs` • `CLI` • `Automation` | Automated CLI utility parsing real-time telemetry, isolating packet loss & container degradation before the alert storm hits. |
 | **[`TagAlong Platform`](https://github.com/Vedant-2-6/TagAlong)** | `React.js` • `Node.js` • `WebSockets` • `Stripe` | Full-stack C2C delivery platform with live bidirectional Socket.IO chat, RBAC, and containerized microservices. |
+| **[`Agentic-RAG-Assistant`](https://github.com/Vedant-2-6/Agentic-RAG-Assistant)** | `Docker` • `Microservices` • `FastAPI` • `RAG` | Containerized state-machine service with vector search and streaming token lifecycles running isolated in Docker. |
 
 ---
 
