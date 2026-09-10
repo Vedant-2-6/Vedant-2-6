@@ -1,39 +1,73 @@
-<h1 align="center">Hi, I'm Vedant Patel 👋</h1>
-<h3 align="center">Cloud-Native, DevOps & Backend Systems Engineer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=vedant@infra:~%24+whoami;Vedant+Patel+%7C+Cloud-Native+%26+DevOps+Engineer;Automating+myself+out+of+a+job+since+2024.;kubectl+get+pods+-A+--field-selector+status.phase=Running;" />
+</h1>
 
 <p align="center">
-  B.Tech in Computer Engineering graduate with practical experience in cloud infrastructure provisioning (Terraform, Azure), container orchestration (Kubernetes, Docker), backend engineering (Python, FastAPI, Node.js, Go), and observability pipelines (Prometheus, Grafana).
+  <b>B.Tech in Computer Engineering Graduate</b> | <b>Platform & Infrastructure Wrangler</b><br/>
+  <i>"If it hurts, automate it. If it still hurts, containerize it. If it won't die, schedule it on Kubernetes."</i>
 </p>
 
 <p align="center">
-  <a href="https://vedant-portfolio-2026-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://vedant-portfolio-2026-alpha.vercel.app/"><img src="https://img.shields.io/badge/Live_Terminal_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/></a>
   <a href="https://www.linkedin.com/in/vedantpatel2603"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vedantpatelvp04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:vedantpatelvp04@gmail.com"><img src="https://img.shields.io/badge/Signal_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🛠️ Core Technical Stack
+### 💻 `cat /etc/profile.d/vedant.sh`
 
-- **Cloud & DevOps:** Kubernetes (K8s), Docker, Terraform (IaC), Prometheus, Grafana, Azure DevOps, GitHub Actions, Microsoft Azure, NGINX
-- **Backend & Systems:** Python, Go (Golang), FastAPI, Node.js, Express.js, RESTful APIs, WebSockets (Socket.IO)
-- **Databases:** PostgreSQL, MongoDB Atlas, SQLite, MySQL, Redis (Caching)
-- **Linux & Tools:** Linux/Unix Administration (Ubuntu/Debian, Systemd, Bash), Git / GitHub, Postman, Vim
-
----
-
-### 🚀 Highlighted Projects
-
-- **[DevOps-God](https://github.com/Vedant-2-6/DevOps-God)**: CLI-driven infrastructure diagnostic and automated health check tool parsing live telemetry, monitoring container degradation, and isolating network bottlenecks.
-- **[Agentic RAG Assistant](https://github.com/Vedant-2-6/Agentic-RAG-Assistant)**: Autonomous RAG assistant using LangGraph state machines, FAISS vector search, FastAPI token streaming, and Dockerized microservices.
-- **[TagAlong Platform](https://github.com/Vedant-2-6/TagAlong)**: Full-stack C2C delivery platform featuring real-time WebSocket messaging, role-based access control, Stripe payment flows, and microservice containerization.
-- **[Tagalong-Terraform](https://github.com/Vedant-2-6/Tagalong-Terraform)**: Modular Infrastructure as Code (IaC) provisioning secure 3-tier cloud architectures, virtual networking (VNets), and automated deployment pipelines.
+```bash
+#!/bin/bash
+export CANDIDATE="Vedant Patel"
+export ROLE="Cloud-Native & DevOps Systems Engineer"
+export DEGREE="B.Tech in Computer Engineering (DDU, 2026)"
+export PHILOSOPHY="GitOps over ClickOps | Cattle, Not Pets | Zero-Downtime Releases"
+export STATUS="Ready to deploy to production | Coffee Level: [||||||||||] 100%"
+```
 
 ---
 
-### 📈 GitHub Stats
+### ⚙️ Cluster Architecture & Tooling
+
+```
+ ┌────────────────┐      ┌───────────────────────────┐      ┌────────────────────────┐
+ │ CI/CD Pipelines│ ---> │  Kubernetes Orchestration │ ---> │ Observability & Metrics│
+ └────────────────┘      └───────────────────────────┘      └────────────────────────┘
+```
+
+- **Cloud & IaC:** `Terraform` (Modules & State), `Microsoft Azure`, `AWS Basics`, `Docker`, `Kubernetes (K8s)`
+- **Observability:** `Prometheus`, `Grafana`, `Log Analytics Workspace`, `Alertmanager`, `Health Probes`
+- **Languages & Scripting:** `Go (Golang)`, `Python`, `Bash / Shell`, `JavaScript / TypeScript`, `SQL`
+- **Networking & Edge:** `NGINX Reverse Proxy`, `TCP/IP`, `DNS`, `SSL/TLS`, `WebSockets (Socket.IO)`
+- **Databases:** `PostgreSQL`, `MongoDB Atlas`, `Redis (In-Memory Cache)`, `SQLite`
+
+---
+
+### 🚀 Production Deployments (Highlighted Projects)
+
+| Project | Telemetry / Specs | Description |
+|---|---|---|
+| **[`DevOps-God`](https://github.com/Vedant-2-6/DevOps-God)** | `Python` • `Cloud APIs` • `CLI` • `Linux` | Automated CLI utility parsing real-time telemetry, isolating packet loss & container degradation before the alert storm hits. |
+| **[`Tagalong-Terraform`](https://github.com/Vedant-2-6/Tagalong-Terraform)** | `Terraform` • `Azure VNets` • `IaC` • `DevOps` | Declarative 3-tier cloud infrastructure. Modular code provisioning virtual networks, app gateways, and automated CI/CD. |
+| **[`Agentic-RAG-Assistant`](https://github.com/Vedant-2-6/Agentic-RAG-Assistant)** | `Python` • `LangGraph` • `FastAPI` • `Docker` | Autonomous state-machine RAG pipeline with FAISS vector search and streaming token lifecycles in isolated containers. |
+| **[`TagAlong Platform`](https://github.com/Vedant-2-6/TagAlong)** | `React.js` • `Node.js` • `WebSockets` • `Stripe` | Full-stack C2C delivery platform with live bidirectional Socket.IO chat, RBAC, and containerized microservices. |
+
+---
+
+### 📊 Real-Time Cluster Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vedant-2-6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-2-6&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-2-6&theme=tokyonight&hide_border=true" width="94%" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with ☕, Bash, and <code>git commit --amend --no-edit</code></sub>
 </p>
