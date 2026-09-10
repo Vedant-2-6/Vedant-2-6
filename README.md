@@ -53,21 +53,8 @@ export STATUS="Ready to deploy to production | Coffee Level: [||||||||||] 100%"
 | **[`DevOps-God`](https://github.com/Vedant-2-6/DevOps-God)** | `Linux` • `Cloud APIs` • `CLI` • `Automation` | Automated CLI utility parsing real-time telemetry, isolating packet loss & container degradation before the alert storm hits. |
 | **[`TagAlong Platform`](https://github.com/Vedant-2-6/TagAlong)** | `React.js` • `Node.js` • `WebSockets` • `Stripe` | Full-stack C2C delivery platform with live bidirectional Socket.IO chat, RBAC, and containerized microservices. |
 | **[`Agentic-RAG-Assistant`](https://github.com/Vedant-2-6/Agentic-RAG-Assistant)** | `Docker` • `Microservices` • `FastAPI` • `RAG` | Containerized state-machine service with vector search and streaming token lifecycles running isolated in Docker. |
-
 ---
 
-### 📊 Real-Time Cluster Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-2-6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-2-6&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-2-6&theme=tokyonight&hide_border=true" width="94%" />
-</p>
-
----
 
 <p align="center">
   <sub>Built with ☕, Bash, and <code>git commit --amend --no-edit</code></sub>
